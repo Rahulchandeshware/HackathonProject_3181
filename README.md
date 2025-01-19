@@ -57,7 +57,7 @@ To get started with this project, follow these steps:
 
 1. **Clone the repository**:
 
-   git clone https://github.com/Rahulchandeshware/Tutorials-Ninja.git
+   git clone https://github.com/Rahulchandeshware/HackathonProject.git
  
    ## Contributors
     
