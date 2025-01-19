@@ -50,3 +50,22 @@ This project includes **76 test cases**, covering various aspects of the website
 
 The project follows a modular structure with clearly separated components:
 
+
+## Getting Started
+
+To get started with this project, follow these steps:
+
+1. **Clone the repository**:
+
+   git clone https://github.com/your-username/Tutorials-Ninja.git
+   cd Tutorials-Ninja
+
+   ## Contributors
+    
+This project was developed by:
+Collaborator 1: **Rahul Chandeshware** (Team Member 1)
+Collaborator 2: **Puja Kumari**(Team Member 2)
+
+## Special thanks to both team members for their collaboration and hard work during the Hackathon!
+
+
