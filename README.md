@@ -57,9 +57,8 @@ To get started with this project, follow these steps:
 
 1. **Clone the repository**:
 
-   git clone https://github.com/your-username/Tutorials-Ninja.git
-   cd Tutorials-Ninja
-
+   git clone https://github.com/Rahulchandeshware/Tutorials-Ninja.git
+ 
    ## Contributors
     
 This project was developed by:
